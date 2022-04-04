@@ -14,12 +14,12 @@
 #define RAISE   2
 #define CONTROL 3
 
-combo_ret {
+/ { combo_ret {
 	timeout-ms = <50>;
 	key-positions = <L '>;
 	bindings = <&kp RET>;
 	};
-/ {
+};	
 	keymap {
 		compatible = "zmk,keymap";
 		
