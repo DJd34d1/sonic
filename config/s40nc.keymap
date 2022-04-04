@@ -19,9 +19,9 @@
 	key-positions = <22 23>;
 	bindings = <&kp RET>;
 	};
-};	
-keymap {
+};
 
+keymap {
 		compatible = "zmk,keymap";
 		
 		default_layer {
