@@ -15,7 +15,7 @@
 #define CONTROL 3
 
 / { combo_ret {
-	timeout-ms = <50>;
+	timeout-ms = <80>;
 	key-positions = <22 23>;
 	bindings = <&kp RET>;
 	};
