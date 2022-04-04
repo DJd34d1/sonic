@@ -16,7 +16,7 @@
 
 / { combo_ret {
 	timeout-ms = <50>;
-	key-positions = <L '>;
+	key-positions = <22 23>;
 	bindings = <&kp RET>;
 	};
 };	
